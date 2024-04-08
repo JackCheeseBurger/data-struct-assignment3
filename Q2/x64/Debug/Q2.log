@@ -1,0 +1,12 @@
+﻿  Search.cpp
+C:\Users\jrlch\data-struct-assignment3\Q2\Search.cpp(18,16): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\jrlch\data-struct-assignment3\Q2\Search.cpp(18,16):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jrlch\data-struct-assignment3\Q2\Search.cpp(31,19):
+  	see reference to function template instantiation 'int last_occurrence<char>(std::vector<char,std::allocator<char>> &,T,size_t)' being compiled
+          with
+          [
+              T=char
+          ]
+  
+  Q2.vcxproj -> C:\Users\jrlch\data-struct-assignment3\Q2\x64\Debug\Q2.exe
